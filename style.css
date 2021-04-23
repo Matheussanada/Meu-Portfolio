@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    background: url("imgs/backgroud\ fundo\ pagina/bg.jpg")no-repeat top center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    height: 100vh;
+    color: #000000;
+
+}
+
+.title {
+font-size: 36px;
+font-weight: normal;
+
+
+}
+
+
+.profile-box {
+
+    background: #eee;
+    padding: 4rem;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    text-align: center;
+}
+
+.profile-pik {
+
+    border-radius: 50%;
+    margin: 0 auto  2rem auto;
+}
+
+
+.profile span {
+
+font-size: 24px;
+
+
+}
+
+.profile-box p {
+    font-size: 18px;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+}
+
+
+
+
+
+
+.redes-sociais {
+    display: flex;
+    justify-content: center;
+
+}
+
+.redes-sociais li {
+
+    margin-right: 1rem;
+}
+
+.profile-box{
+
+    max-width: 886px;
+    margin: 8rem 0;
+}
+
+.perfil-box {
+
+    background: #eee;
+    padding: 4rem;
+    box-shadow: 2px 2px 16px rgba(0, 0, 0, 0.16);
+    border-radius: 50px;
+    text-align: center;
+    
+
+}
+
+.perfil-box {
+
+    max-width: 886px;
+    margin: 8rem 0;
+}
+
+.perfil-box ul {
+    margin-top: 3rem;
+}
+
+.perfil-box li {
+
+    display: grid;
+    grid-template-columns: auto 1fr;
+    text-align: center;
+    gap: 1rem;
+    color: #606060;
+
+}
+
+
+.perfil-box li + li {
+
+margin-top: 2rem;
+}
+
+
+.perfil-box img {
+
+border-radius: 20px;
+box-sizing: border-box;
+
+}
+
+
+.perfil-box h2 {
+
+    font-weight: normal;
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+}
+
+
+.copi {
+
+    font-size: 24px;
+    color: black;
+    text-shadow: 2px, 2px ,16px, black;
+    margin-bottom: 50vh;
+}
