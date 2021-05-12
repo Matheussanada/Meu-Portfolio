@@ -24,7 +24,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```sh
     # Clonar o repositório
-    $ git clone https://github.com/guuhschmaltz/happy.git
 
     # Acesse o diretório
     $ cd happy
