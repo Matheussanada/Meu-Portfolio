@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
     # Clonar o repositório
 
     # Acesse o diretório
-    $ cd happy
+    $ cd meu-portfolio
 
 ```
 ---
